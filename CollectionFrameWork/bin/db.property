@@ -1,0 +1,5 @@
+driver=com.mysql.jdbc.Driver
+constring=jdbc:mysql://localhost:3306/svce
+const=jdbc:mysql://localhost:3306/hotel
+user=root
+pass=4093
